@@ -16,3 +16,9 @@ Listing articles feature test
 
 - expect both article titles and bodies to be present
 
+Show article feature test
+
+- create branch
+- create 1 articles to display
+
+- show the article title and details
