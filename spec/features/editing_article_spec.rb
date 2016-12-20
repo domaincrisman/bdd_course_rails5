@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.feature "Editing an article" do
   
-   before do
+  before do
     @article = Article.create(title: "Title one", body: "Body of article one")
   end
   
