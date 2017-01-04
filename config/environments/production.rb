@@ -89,6 +89,6 @@ Rails.application.configure do
   config.action_cable.allowed_request_origins = ['https://blog-app-crisman.herokuapp.com/',
                                                'http://blog-app-crisman.herokuapp.com/']
                                                
-  #config.action_cable.url = "wss://sitepoint-actioncable.herokuapp.com/cable"
-  config.action_cable.url = "wss://blog-app-crisman.herokuapp.com/cable"
+  config.action_cable.url = "wss://sitepoint-actioncable.herokuapp.com/cable"
+  #config.action_cable.url = "wss://blog-app-crisman.herokuapp.com/cable"
 end
