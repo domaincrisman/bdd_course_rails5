@@ -91,4 +91,5 @@ Rails.application.configure do
                                                
   config.action_cable.url = "wss://sitepoint-actioncable.herokuapp.com/cable"
   #config.action_cable.url = "wss://blog-app-crisman.herokuapp.com/cable"
+  
 end
